@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -24,4 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
