@@ -1,5 +1,5 @@
 # leetcode-solutions
-My personal journey through LeetCode algorithms.\n\n
+My personal journey through LeetCode algorithms.
 Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 
 <!---LeetCode Topics Start-->
