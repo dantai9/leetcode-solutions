@@ -1,6 +1,35 @@
-# leetcode-solutions
-My personal journey through LeetCode algorithms.
-Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+# 🚀 LeetCode Solutions: My Algorithm Journey
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/dantai9/leetcode-solutions?style=for-the-badge&color=blue" />
+</p>
+
+---
+
+### 📊 My Progress
+These cards update dynamically based on your LeetCode profile (replace `dantai9` with your actual username):
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/dantai9?theme=dark&font=Recursive)
+
+---
+
+### 🧠 The Logic Library
+This repository is a collection of my solutions as I learn to "think in a programming way." My focus is on:
+* **Time Complexity ($O(n)$):** Writing efficient code.
+* **Space Complexity:** Managing memory effectively.
+* **Pattern Recognition:** Identifying when to use Arrays, Strings, or Bit Manipulation.
+
+---
+
+### 🛠 Tools Used
+* **VS Code** for development.
+* **LeetHub 3.0** for automated synchronization.
+* **Python** for readable, logical implementations.
+
+---
+<br>
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
