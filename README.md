@@ -9,7 +9,6 @@
 ---
 
 ### 📊 My Progress
-These cards update dynamically based on your LeetCode profile (replace `dantai9` with your actual username):
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dantai9?theme=dark&font=Recursive)
 
