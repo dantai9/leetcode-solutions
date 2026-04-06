@@ -9,6 +9,7 @@
 ---
 
 ### 📊 My Progress
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR_USERNAME/) 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dantai9?theme=dark&font=Recursive)
 
