@@ -60,6 +60,7 @@ This repository is a collection of my solutions as I learn to "think in a progra
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0383-ransom-note](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0412-fizz-buzz](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -75,6 +76,7 @@ This repository is a collection of my solutions as I learn to "think in a progra
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 ## Hash Table
