@@ -58,6 +58,7 @@ This repository is a collection of my solutions as I learn to "think in a progra
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0412-fizz-buzz](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -71,4 +72,12 @@ This repository is a collection of my solutions as I learn to "think in a progra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
