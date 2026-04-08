@@ -37,6 +37,7 @@ This repository is a collection of my solutions as I learn to "think in a progra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ This repository is a collection of my solutions as I learn to "think in a progra
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0412-fizz-buzz](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
