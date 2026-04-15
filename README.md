@@ -47,6 +47,7 @@ This repository is a collection of my solutions as I learn to "think in a progra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
