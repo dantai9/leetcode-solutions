@@ -38,6 +38,7 @@ This repository is a collection of my solutions as I learn to "think in a progra
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ This repository is a collection of my solutions as I learn to "think in a progra
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
