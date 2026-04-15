@@ -49,6 +49,7 @@ This repository is a collection of my solutions as I learn to "think in a progra
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1480-running-sum-of-1d-array/) | Easy |
@@ -82,6 +83,7 @@ This repository is a collection of my solutions as I learn to "think in a progra
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -92,4 +94,8 @@ This repository is a collection of my solutions as I learn to "think in a progra
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/dantai9/leetcode-solutions/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
